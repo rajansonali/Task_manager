@@ -1,5 +1,7 @@
 **Task Manager API (Flask)**
-Project Overview
+
+**Project Overview:**
+
 This project is a backend API for managing comments on tasks, built using Flask.
 It implements full CRUD functionality (Create, Read, Update, Delete) for comments and includes automated tests to ensure correctness.
 
